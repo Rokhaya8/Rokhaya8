@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/rokhaya-banner.png" alt="Rokhaya Gueye - Aspiring Data Engineer" width="100%" />
+</p>
+
 # Hi, I'm Rokhaya Gueye 👋
 
 ### Computer Science Engineering Student | Aspiring Data Engineer 📊
