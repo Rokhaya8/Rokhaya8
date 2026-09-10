@@ -141,8 +141,8 @@ I'm using GitHub to document my progress in **Data Engineering**, experiment wit
 
 I'm always happy to connect with people interested in **Data Engineering, Data Science, Analytics, Cloud, and technology**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rokhaya_Gueye-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rokhayagueye8)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rokhayagueye8000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rokhaya_Gueye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rokhayagueye8)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rokhayagueye8000@gmail.com)
 
 ---
 
