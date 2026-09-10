@@ -126,12 +126,11 @@ There's still a lot to learn — and that's exactly what makes the journey inter
 
 ---
 
-## 📊 GitHub
+## 📊 My GitHub Journey
 
-![Rokhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rokhaya8\&show_icons=true\&hide_border=true)
+I'm using GitHub to document my progress in **Data Engineering**, experiment with new technologies, and turn what I learn into practical projects.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rokhaya8\&layout=compact\&hide_border=true)
-
+💡 More projects coming as I continue exploring the data ecosystem.
 ---
 
 ## 🤝 Let's Connect
