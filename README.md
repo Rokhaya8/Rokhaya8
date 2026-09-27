@@ -8,6 +8,13 @@ I enjoy understanding how raw data moves from source to insight: how it's **coll
 
 Right now, I'm building my foundations, experimenting with different technologies, and figuring things out one pipeline at a time. 🚀
 
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,mysql,html,css,js,docker,postgres,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" />
+</p>
+
 ---
 
 ## 👩🏾‍💻 About Me
