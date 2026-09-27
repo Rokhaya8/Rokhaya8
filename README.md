@@ -32,20 +32,19 @@ Right now, I'm building my foundations, experimenting with different technologie
 
 ## 🚀 Featured Projects
 
-### 🛡️ ForecastGuard — Reliable Data Pipeline for Sales Forecasting
+###🛡️ ForecastGuard — Reliable Data Pipeline for Sales Forecasting
+Python · SQL · Airflow · dbt Core · PostgreSQL · Streamlit · Docker · Gemini API
 
-**Python · SQL · Airflow · dbt Core · PostgreSQL · Docker · Gemini API**
+An end-to-end data pipeline that publishes a sales forecast only when the data
+behind it is reliable, and explains why when it is not.
 
-An end-to-end data pipeline designed not only to generate sales forecasts, but also to ensure that the underlying data is reliable enough to trust them.
-
-* 🔄 Built and orchestrated an end-to-end pipeline with **Apache Airflow**
-* 🧱 Implemented transformations and automated data tests using **dbt Core**
-* 🗄️ Used **PostgreSQL** for structured data storage
-* 🛡️ Added data-quality controls capable of detecting abnormal volume changes
-* ⛔ Automatically prevents forecasts from running when data is considered unreliable
-* 🤖 Integrated **Gemini** to contextualize detected anomalies, suggest possible causes, and propose diagnostic checks
-* 🐳 Containerized the environment using **Docker**
-
+* 🔄 Orchestrated the pipeline with Apache Airflow, using a quality branch that routes each run to forecasting or diagnosis
+* 🧱 Built SQL transformations and structural data tests with dbt Core
+* 🛡️ Added a volume check that compares each day with its 7-day average and blocks the forecast below 70%
+* 🗄️ Recorded every decision (figures, forecast or diagnosis) in a PostgreSQL run history
+* 🤖 Integrated Gemini to explain anomalies, separating facts from hypotheses, with retries and a fallback when the API is unavailable
+* 📊 Built a Streamlit dashboard showing forecast status, quality indicators and incident history
+* 🐳 Containerized the full stack with Docker Compose
 > **Key idea:** A forecast is only as trustworthy as the data behind it.
 
 ---
