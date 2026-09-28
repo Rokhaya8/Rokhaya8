@@ -2,7 +2,7 @@
 
 ### Computer Science Engineering Student | Aspiring Data Engineer 📊
 
-I'm a Computer Science Engineering student with a growing interest in the world of **Data** — especially **Data Engineering**, while also exploring Data Science and Data Analytics.
+I'm a Computer Science Engineering student with a growing interest in the world of **Data**.
 
 I enjoy understanding how raw data moves from source to insight: how it's **collected, transformed, tested, stored, and ultimately used to make decisions**.
 
