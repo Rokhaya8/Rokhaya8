@@ -1,6 +1,6 @@
-# Hi, I'm Rokhaya Gueye 👋
+# Hi, I'm Rokhaya Gueye 
 
-### Computer Science Engineering Student | Aspiring Data Engineer 📊
+### Computer Science Engineering Student | Aspiring Data Engineer 
 
 I'm a Computer Science Engineering student with a growing interest in the world of **Data**.
 
@@ -8,7 +8,7 @@ I enjoy understanding how raw data moves from source to insight: how it's **coll
 
 Right now, I'm building my foundations, experimenting with different technologies, and figuring things out one pipeline at a time. 🚀
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,mysql,html,css,js,docker,postgres,git" />
@@ -19,61 +19,61 @@ Right now, I'm building my foundations, experimenting with different technologie
 
 ## 👩🏾‍💻 About Me
 
-* 🎓 Computer Science Engineering student
-* 📊 Currently focusing on **Data Engineering**
-* 🐍 Python is my main programming language
-* 🗄️ Interested in **ETL/ELT, data pipelines, databases, data quality, and Big Data**
-* ☁️ Exploring cloud and distributed data technologies
-* 🌱 Currently learning and strengthening my Data Engineering foundations
-* 💡 Curious about how **AI and Data Engineering** can work together
-* 🔎 Always looking for opportunities to learn through real-world projects
+*  Computer Science Engineering student
+*  Currently focusing on **Data Engineering**
+*  Python is my main programming language
+*  Interested in **ETL/ELT, data pipelines, databases, data quality, and Big Data**
+*  Exploring cloud and distributed data technologies
+*  Currently learning and strengthening my Data Engineering foundations
+*  Curious about how **AI and Data Engineering** can work together
+*  Always looking for opportunities to learn through real-world projects
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-###🛡️ ForecastGuard — Reliable Data Pipeline for Sales Forecasting
+### ForecastGuard — Reliable Data Pipeline for Sales Forecasting
 Python · SQL · Airflow · dbt Core · PostgreSQL · Streamlit · Docker · Gemini API
 
 An end-to-end data pipeline that publishes a sales forecast only when the data
 behind it is reliable, and explains why when it is not.
 
-* 🔄 Orchestrated the pipeline with Apache Airflow, using a quality branch that routes each run to forecasting or diagnosis
-* 🧱 Built SQL transformations and structural data tests with dbt Core
-* 🛡️ Added a volume check that compares each day with its 7-day average and blocks the forecast below 70%
-* 🗄️ Recorded every decision (figures, forecast or diagnosis) in a PostgreSQL run history
-* 🤖 Integrated Gemini to explain anomalies, separating facts from hypotheses, with retries and a fallback when the API is unavailable
-* 📊 Built a Streamlit dashboard showing forecast status, quality indicators and incident history
-* 🐳 Containerized the full stack with Docker Compose
+*  Orchestrated the pipeline with Apache Airflow, using a quality branch that routes each run to forecasting or diagnosis
+*  Built SQL transformations and structural data tests with dbt Core
+*  Added a volume check that compares each day with its 7-day average and blocks the forecast below 70%
+*  Recorded every decision (figures, forecast or diagnosis) in a PostgreSQL run history
+*  Integrated Gemini to explain anomalies, separating facts from hypotheses, with retries and a fallback when the API is unavailable
+*  Built a Streamlit dashboard showing forecast status, quality indicators and incident history
+*  Containerized the full stack with Docker Compose
 > **Key idea:** A forecast is only as trustworthy as the data behind it.
 
 ---
 
-### ⚡ Cloud Big Data — Energy Consumption Analysis
+### Cloud Big Data — Energy Consumption Analysis
 
 **Azure Synapse Analytics · Apache Spark · Delta Lake**
 
 A cloud-based Big Data project exploring energy consumption data collected from smart meters.
 
-* ☁️ Configured an **Azure** environment for data processing
-* 🔥 Processed and cleaned datasets using **Apache Spark**
-* 🏠 Explored energy consumption patterns from smart-meter data
-* 📈 Prepared features for time-series forecasting
-* 💾 Worked with **Delta Lake** for data storage and processing
+*  Configured an **Azure** environment for data processing
+*  Processed and cleaned datasets using **Apache Spark**
+*  Explored energy consumption patterns from smart-meter data
+*  Prepared features for time-series forecasting
+*  Worked with **Delta Lake** for data storage and processing
 
 ---
 
-### 🏥 ETL Pipeline — African Health Data Analysis
+###  ETL Pipeline — African Health Data Analysis
 
 **Python · SQL · Pandas · SQLite · Matplotlib**
 
 An ETL and analytics project using World Bank health indicators covering **54 African countries**.
 
-* 🔄 Built an ETL pipeline to extract, clean, transform, and load health data
-* 🐍 Processed datasets using **Python and Pandas**
-* 🗃️ Stored and queried transformed data using **SQLite and SQL**
-* 📊 Analyzed health indicators across African countries
-* 📈 Created visualizations to explore trends in the data
+*  Built an ETL pipeline to extract, clean, transform, and load health data
+*  Processed datasets using **Python and Pandas**
+*  Stored and queried transformed data using **SQLite and SQL**
+*  Analyzed health indicators across African countries
+*  Created visualizations to explore trends in the data
 
 ---
 
@@ -87,26 +87,26 @@ I'm especially interested in understanding **why and when technologies are used*
 
 ---
 
-## 🎯 Where I'm Heading
+##  Where I'm Heading
 
 I'm working toward becoming a **Data Engineer** capable of designing reliable and scalable systems that transform raw data into trustworthy, usable datasets.
 
 Along the way, I'm exploring the connections between:
 
-**Data Engineering ⚙️ + Analytics 📊 + Cloud ☁️ + AI 🤖**
+**Data Engineering  + Analytics  + Cloud  + AI **
 
 There's still a lot to learn — and that's exactly what makes the journey interesting.
 
 ---
 
-## 📊 My GitHub Journey
+##  My GitHub Journey
 
 I'm using GitHub to document my progress in **Data Engineering**, experiment with new technologies, and turn what I learn into practical projects.
 
-💡 More projects coming as I continue exploring the data ecosystem.
+ More projects coming as I continue exploring the data ecosystem.
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always happy to connect with people interested in **Data Engineering, Data Science, Analytics, Cloud, and technology**.
 
