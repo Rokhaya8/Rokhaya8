@@ -17,19 +17,6 @@ Right now, I'm building my foundations, experimenting with different technologie
 
 ---
 
-## About Me
-
-*  Computer Science Engineering student
-*  Currently focusing on **Data Engineering**
-*  Python is my main programming language
-*  Interested in **ETL/ELT, data pipelines, databases, data quality, and Big Data**
-*  Exploring cloud and distributed data technologies
-*  Currently learning and strengthening my Data Engineering foundations
-*  Curious about how **AI and Data Engineering** can work together
-*  Always looking for opportunities to learn through real-world projects
-
----
-
 ##  Featured Projects
 
 ### ForecastGuard — Reliable Data Pipeline for Sales Forecasting
