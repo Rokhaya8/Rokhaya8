@@ -17,7 +17,7 @@ Right now, I'm building my foundations, experimenting with different technologie
 
 ---
 
-## 👩🏾‍💻 About Me
+## About Me
 
 *  Computer Science Engineering student
 *  Currently focusing on **Data Engineering**
