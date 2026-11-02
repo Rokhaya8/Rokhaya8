@@ -6,7 +6,7 @@ I'm a Computer Science Engineering student with a growing interest in the world 
 
 I enjoy understanding how raw data moves from source to insight: how it's **collected, transformed, tested, stored, and ultimately used to make decisions**.
 
-Right now, I'm building my foundations, experimenting with different technologies, and figuring things out one pipeline at a time. 🚀
+Right now, I'm building my foundations, experimenting with different technologies, and figuring things out one pipeline at a time. 
 
 ###  Languages and Tools
 
