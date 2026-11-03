@@ -88,9 +88,9 @@ There's still a lot to learn — and that's exactly what makes the journey inter
 
 ##  My GitHub Journey
 
-I'm using GitHub to document my progress in **Data Engineering**, experiment with new technologies, and turn what I learn into practical projects.
+I'm using GitHub to document my progress , experiment with new technologies, and turn what I learn into practical projects.
 
- More projects coming as I continue exploring the data ecosystem.
+ More projects coming as I continue exploring ecosystem.
 ---
 
 ##  Let's Connect
