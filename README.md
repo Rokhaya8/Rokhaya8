@@ -19,7 +19,7 @@ Right now, I'm building my foundations, experimenting with different technologie
 
 ##  Featured Projects
 
-### ForecastGuard — Reliable Data Pipeline for Sales Forecasting
+### ForecastGuard - Reliable Data Pipeline for Sales Forecasting
 Python · SQL · Airflow · dbt Core · PostgreSQL · Streamlit · Docker · Gemini API
 
 An end-to-end data pipeline that publishes a sales forecast only when the data
@@ -36,7 +36,7 @@ behind it is reliable, and explains why when it is not.
 
 ---
 
-### Cloud Big Data — Energy Consumption Analysis
+### Cloud Big Data - Energy Consumption Analysis
 
 **Azure Synapse Analytics · Apache Spark · Delta Lake**
 
@@ -50,7 +50,7 @@ A cloud-based Big Data project exploring energy consumption data collected from 
 
 ---
 
-###  ETL Pipeline — African Health Data Analysis
+###  ETL Pipeline - African Health Data Analysis
 
 **Python · SQL · Pandas · SQLite · Matplotlib**
 
